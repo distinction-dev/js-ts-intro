@@ -1,0 +1,20 @@
+{
+  "name": "js-ts-intro",
+  "version": "1.0.0",
+  "description": "A small repo for JS and TS introduction",
+  "main": "src/example.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "typescript": "^5.6.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.0.0",
+    "@types/node": "^22.7.5",
+    "jest": "^29.0.0",
+    "ts-jest": "^29.0.0",
+    "ts-node": "^10.9.2"
+  }
+}
